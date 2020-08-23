@@ -9,3 +9,5 @@ convertasc.ipynb is used to convert csvs to asc format which is needed for use i
 generate_csl.ipynb generates the CSLs for the required metrics, which is a file describing what comparisons MCK should make
 
 generate_mask.ipynb is used to generate the mask file needed to filter out undesired areas of the map, this is done by converting a random output map from the land use scanner model to the desired format
+
+The used files folder contains the csls and mask used for a 100 map comparison.
