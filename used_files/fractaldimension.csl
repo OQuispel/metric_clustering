@@ -1,0 +1,602 @@
+<comparisonsets>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map0.asc" map2path="C:\LUMOS\MCK\ascmaps\map1.asc" method="Moving Window based Structure" outputstatistics="fractaldimension0_1.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map2.asc" map2path="C:\LUMOS\MCK\ascmaps\map3.asc" method="Moving Window based Structure" outputstatistics="fractaldimension2_3.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map4.asc" map2path="C:\LUMOS\MCK\ascmaps\map5.asc" method="Moving Window based Structure" outputstatistics="fractaldimension4_5.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map6.asc" map2path="C:\LUMOS\MCK\ascmaps\map7.asc" method="Moving Window based Structure" outputstatistics="fractaldimension6_7.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map8.asc" map2path="C:\LUMOS\MCK\ascmaps\map9.asc" method="Moving Window based Structure" outputstatistics="fractaldimension8_9.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map10.asc" map2path="C:\LUMOS\MCK\ascmaps\map11.asc" method="Moving Window based Structure" outputstatistics="fractaldimension10_11.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map12.asc" map2path="C:\LUMOS\MCK\ascmaps\map13.asc" method="Moving Window based Structure" outputstatistics="fractaldimension12_13.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map14.asc" map2path="C:\LUMOS\MCK\ascmaps\map15.asc" method="Moving Window based Structure" outputstatistics="fractaldimension14_15.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map16.asc" map2path="C:\LUMOS\MCK\ascmaps\map17.asc" method="Moving Window based Structure" outputstatistics="fractaldimension16_17.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map18.asc" map2path="C:\LUMOS\MCK\ascmaps\map19.asc" method="Moving Window based Structure" outputstatistics="fractaldimension18_19.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map20.asc" map2path="C:\LUMOS\MCK\ascmaps\map21.asc" method="Moving Window based Structure" outputstatistics="fractaldimension20_21.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map22.asc" map2path="C:\LUMOS\MCK\ascmaps\map23.asc" method="Moving Window based Structure" outputstatistics="fractaldimension22_23.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map24.asc" map2path="C:\LUMOS\MCK\ascmaps\map25.asc" method="Moving Window based Structure" outputstatistics="fractaldimension24_25.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map26.asc" map2path="C:\LUMOS\MCK\ascmaps\map27.asc" method="Moving Window based Structure" outputstatistics="fractaldimension26_27.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map28.asc" map2path="C:\LUMOS\MCK\ascmaps\map29.asc" method="Moving Window based Structure" outputstatistics="fractaldimension28_29.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map30.asc" map2path="C:\LUMOS\MCK\ascmaps\map31.asc" method="Moving Window based Structure" outputstatistics="fractaldimension30_31.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map32.asc" map2path="C:\LUMOS\MCK\ascmaps\map33.asc" method="Moving Window based Structure" outputstatistics="fractaldimension32_33.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map34.asc" map2path="C:\LUMOS\MCK\ascmaps\map35.asc" method="Moving Window based Structure" outputstatistics="fractaldimension34_35.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map36.asc" map2path="C:\LUMOS\MCK\ascmaps\map37.asc" method="Moving Window based Structure" outputstatistics="fractaldimension36_37.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map38.asc" map2path="C:\LUMOS\MCK\ascmaps\map39.asc" method="Moving Window based Structure" outputstatistics="fractaldimension38_39.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map40.asc" map2path="C:\LUMOS\MCK\ascmaps\map41.asc" method="Moving Window based Structure" outputstatistics="fractaldimension40_41.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map42.asc" map2path="C:\LUMOS\MCK\ascmaps\map43.asc" method="Moving Window based Structure" outputstatistics="fractaldimension42_43.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map44.asc" map2path="C:\LUMOS\MCK\ascmaps\map45.asc" method="Moving Window based Structure" outputstatistics="fractaldimension44_45.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map46.asc" map2path="C:\LUMOS\MCK\ascmaps\map47.asc" method="Moving Window based Structure" outputstatistics="fractaldimension46_47.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map48.asc" map2path="C:\LUMOS\MCK\ascmaps\map49.asc" method="Moving Window based Structure" outputstatistics="fractaldimension48_49.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map50.asc" map2path="C:\LUMOS\MCK\ascmaps\map51.asc" method="Moving Window based Structure" outputstatistics="fractaldimension50_51.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map52.asc" map2path="C:\LUMOS\MCK\ascmaps\map53.asc" method="Moving Window based Structure" outputstatistics="fractaldimension52_53.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map54.asc" map2path="C:\LUMOS\MCK\ascmaps\map55.asc" method="Moving Window based Structure" outputstatistics="fractaldimension54_55.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map56.asc" map2path="C:\LUMOS\MCK\ascmaps\map57.asc" method="Moving Window based Structure" outputstatistics="fractaldimension56_57.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map58.asc" map2path="C:\LUMOS\MCK\ascmaps\map59.asc" method="Moving Window based Structure" outputstatistics="fractaldimension58_59.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map60.asc" map2path="C:\LUMOS\MCK\ascmaps\map61.asc" method="Moving Window based Structure" outputstatistics="fractaldimension60_61.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map62.asc" map2path="C:\LUMOS\MCK\ascmaps\map63.asc" method="Moving Window based Structure" outputstatistics="fractaldimension62_63.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map64.asc" map2path="C:\LUMOS\MCK\ascmaps\map65.asc" method="Moving Window based Structure" outputstatistics="fractaldimension64_65.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map66.asc" map2path="C:\LUMOS\MCK\ascmaps\map67.asc" method="Moving Window based Structure" outputstatistics="fractaldimension66_67.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map68.asc" map2path="C:\LUMOS\MCK\ascmaps\map69.asc" method="Moving Window based Structure" outputstatistics="fractaldimension68_69.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map70.asc" map2path="C:\LUMOS\MCK\ascmaps\map71.asc" method="Moving Window based Structure" outputstatistics="fractaldimension70_71.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map72.asc" map2path="C:\LUMOS\MCK\ascmaps\map73.asc" method="Moving Window based Structure" outputstatistics="fractaldimension72_73.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map74.asc" map2path="C:\LUMOS\MCK\ascmaps\map75.asc" method="Moving Window based Structure" outputstatistics="fractaldimension74_75.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map76.asc" map2path="C:\LUMOS\MCK\ascmaps\map77.asc" method="Moving Window based Structure" outputstatistics="fractaldimension76_77.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map78.asc" map2path="C:\LUMOS\MCK\ascmaps\map79.asc" method="Moving Window based Structure" outputstatistics="fractaldimension78_79.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map80.asc" map2path="C:\LUMOS\MCK\ascmaps\map81.asc" method="Moving Window based Structure" outputstatistics="fractaldimension80_81.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map82.asc" map2path="C:\LUMOS\MCK\ascmaps\map83.asc" method="Moving Window based Structure" outputstatistics="fractaldimension82_83.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map84.asc" map2path="C:\LUMOS\MCK\ascmaps\map85.asc" method="Moving Window based Structure" outputstatistics="fractaldimension84_85.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map86.asc" map2path="C:\LUMOS\MCK\ascmaps\map87.asc" method="Moving Window based Structure" outputstatistics="fractaldimension86_87.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map88.asc" map2path="C:\LUMOS\MCK\ascmaps\map89.asc" method="Moving Window based Structure" outputstatistics="fractaldimension88_89.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map90.asc" map2path="C:\LUMOS\MCK\ascmaps\map91.asc" method="Moving Window based Structure" outputstatistics="fractaldimension90_91.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map92.asc" map2path="C:\LUMOS\MCK\ascmaps\map93.asc" method="Moving Window based Structure" outputstatistics="fractaldimension92_93.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map94.asc" map2path="C:\LUMOS\MCK\ascmaps\map95.asc" method="Moving Window based Structure" outputstatistics="fractaldimension94_95.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map96.asc" map2path="C:\LUMOS\MCK\ascmaps\map97.asc" method="Moving Window based Structure" outputstatistics="fractaldimension96_97.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="fractaldimension" map1path="C:\LUMOS\MCK\ascmaps\map98.asc" map2path="C:\LUMOS\MCK\ascmaps\map99.asc" method="Moving Window based Structure" outputstatistics="fractaldimension98_99.sts" theme1="maps" theme2="maps" up2date="0">
+		<parameterset>
+			<comparison_moving_window_structure aggregation="1" average_per_cell="1" background_category="0" category_of_interest="0" display_map="0" distance_weighed="0" halving="2" include_diagonal="1" metric="3" per_category="0" radius="4" use_background="0"/>
+		</parameterset>
+		<mask basemappath="C:\LUMOS\MCK\mask.asc" displayname="NL_mask" mergeregions="0">
+				<selectedregions>
+					<value value="0"/>
+					<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+</comparisonsets>
