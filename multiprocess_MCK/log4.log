@@ -1,0 +1,12 @@
+MaskCollectionFile=.\maskland4.msk
+LegendsDir=.\legends
+PalettesDir=..\..\thesis_python\map_comparison_kit\palettes
+maps=.\ascmaps4\map0.asc
+maps=.\ascmaps4\map1.asc
+maps=.\ascmaps4\map2.asc
+maps=.\ascmaps4\map3.asc
+maps=.\ascmaps4\map4.asc
+maps=.\ascmaps4\map5.asc
+maps=.\ascmaps4\map6.asc
+maps=.\ascmaps4\map7.asc
+maps=.\ascmaps4\map8.asc

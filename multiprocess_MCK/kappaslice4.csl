@@ -1,0 +1,12 @@
+<comparisonsets>
+
+	<comparisonset displayname="kappaslice4" map1path="C:\LUMOS\MCK\ascmaps4\map6.asc" map2path="C:\LUMOS\MCK\ascmaps4\map7.asc" method="Kappa" outputstatistics="Kappa6_7.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask4.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+</comparisonsets>

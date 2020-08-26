@@ -1,0 +1,92 @@
+<comparisonsets>
+
+	<comparisonset displayname="kappaslice2" map1path="C:\LUMOS\MCK\ascmaps2\map2.asc" map2path="C:\LUMOS\MCK\ascmaps2\map3.asc" method="Kappa" outputstatistics="Kappa2_3.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask2.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="kappaslice2" map1path="C:\LUMOS\MCK\ascmaps2\map2.asc" map2path="C:\LUMOS\MCK\ascmaps2\map4.asc" method="Kappa" outputstatistics="Kappa2_4.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask2.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="kappaslice2" map1path="C:\LUMOS\MCK\ascmaps2\map2.asc" map2path="C:\LUMOS\MCK\ascmaps2\map5.asc" method="Kappa" outputstatistics="Kappa2_5.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask2.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="kappaslice2" map1path="C:\LUMOS\MCK\ascmaps2\map2.asc" map2path="C:\LUMOS\MCK\ascmaps2\map6.asc" method="Kappa" outputstatistics="Kappa2_6.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask2.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="kappaslice2" map1path="C:\LUMOS\MCK\ascmaps2\map2.asc" map2path="C:\LUMOS\MCK\ascmaps2\map7.asc" method="Kappa" outputstatistics="Kappa2_7.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask2.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="kappaslice2" map1path="C:\LUMOS\MCK\ascmaps2\map3.asc" map2path="C:\LUMOS\MCK\ascmaps2\map4.asc" method="Kappa" outputstatistics="Kappa3_4.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask2.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="kappaslice2" map1path="C:\LUMOS\MCK\ascmaps2\map3.asc" map2path="C:\LUMOS\MCK\ascmaps2\map5.asc" method="Kappa" outputstatistics="Kappa3_5.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask2.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="kappaslice2" map1path="C:\LUMOS\MCK\ascmaps2\map3.asc" map2path="C:\LUMOS\MCK\ascmaps2\map6.asc" method="Kappa" outputstatistics="Kappa3_6.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask2.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="kappaslice2" map1path="C:\LUMOS\MCK\ascmaps2\map3.asc" map2path="C:\LUMOS\MCK\ascmaps2\map7.asc" method="Kappa" outputstatistics="Kappa3_7.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask2.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+</comparisonsets>

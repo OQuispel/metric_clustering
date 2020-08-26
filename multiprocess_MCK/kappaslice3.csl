@@ -1,0 +1,52 @@
+<comparisonsets>
+
+	<comparisonset displayname="kappaslice3" map1path="C:\LUMOS\MCK\ascmaps3\map4.asc" map2path="C:\LUMOS\MCK\ascmaps3\map5.asc" method="Kappa" outputstatistics="Kappa4_5.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask3.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="kappaslice3" map1path="C:\LUMOS\MCK\ascmaps3\map4.asc" map2path="C:\LUMOS\MCK\ascmaps3\map6.asc" method="Kappa" outputstatistics="Kappa4_6.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask3.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="kappaslice3" map1path="C:\LUMOS\MCK\ascmaps3\map4.asc" map2path="C:\LUMOS\MCK\ascmaps3\map7.asc" method="Kappa" outputstatistics="Kappa4_7.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask3.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="kappaslice3" map1path="C:\LUMOS\MCK\ascmaps3\map5.asc" map2path="C:\LUMOS\MCK\ascmaps3\map6.asc" method="Kappa" outputstatistics="Kappa5_6.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask3.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+
+	<comparisonset displayname="kappaslice3" map1path="C:\LUMOS\MCK\ascmaps3\map5.asc" map2path="C:\LUMOS\MCK\ascmaps3\map7.asc" method="Kappa" outputstatistics="Kappa5_7.sts" theme1="lusmaps" theme2="lusmaps" up2date="0">
+		<parameterset/>
+		<mask basemappath="C:\LUMOS\MCK\mask3.asc" displayname="NL_mask" mergeregions="0">
+			<selectedregions>
+				<value value="0"/>
+				<value value="1"/>
+			</selectedregions>
+		</mask>
+	</comparisonset>
+</comparisonsets>
