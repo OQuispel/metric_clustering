@@ -8,7 +8,7 @@ def calc_multi(pair_id, class1=22):
     m1 = np.loadtxt(m1_dir, skiprows=6)
     m2 = np.loadtxt(m2_dir, skiprows=6)
     #compute confusion matrix
-    cm = conf_mat_old(m1, m2)
+    cm = conf_mat(m1, m2)
     # turn array into df so that ppy can work with it
     rows_cols = ['class' + str(i) for i in range(28)]
     rows_cols.remove('class23')
